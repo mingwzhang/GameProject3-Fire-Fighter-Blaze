@@ -20,9 +20,13 @@ Fire Fighter BLAZE!! was a collaborative effort between two developers. While pr
 ## Acknowledgments
 
 - **William**: The lead developer and creator of the game's design concept. Visit his work at [William's itch.io page](https://anoymous1.itch.io/).
-- **MIN**: For their significant contributions to development and QA. Check out my work at [MIN's itch.io page](https://mindeveloper.itch.io/).
+- **MIN**: For my contributions to development and QA. Check out my work at [MIN's itch.io page](https://mindeveloper.itch.io/).
 - **Moonrift Entertainment**: Collaborators on the initial game jam project. Visit their profile on [itch.io](https://itch.io/profile/moonrift).
 - **Feyntan/Lunar Garde**: Creator of the Stylish Combat pack for UE4, which greatly facilitated development. Explore their assets [here](https://lunar-garde.itch.io/).
+
+## Game Design Document (GDD)
+
+[View the Game Design Document (GDD)](FireFighter%20BLAZE!!%20Game%20Design%20Doc.pdf)
 
 ## Game Download
 
